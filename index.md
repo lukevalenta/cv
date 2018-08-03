@@ -11,7 +11,7 @@ PhD student, applied cryptographer, security researcher
 | <a href="https://linkedin.com/in/lukevalenta">linkedin.com/in/lukevalenta</a>
 </div>
 
-### Research interests
+### Interests
 Computer Security, Privacy, Applied Cryptography, Elliptic Curve Cryptography, Distributed Systems
 
 ### Education
