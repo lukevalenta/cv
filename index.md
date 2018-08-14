@@ -3,7 +3,7 @@ layout: cv
 title: CV
 ---
 # Luke Valenta
-PhD student, applied cryptographer, security researcher
+PhD student, applied cryptography and computer security researcher
 
 <div id="webaddress">
 <a href="mailto:luke.valenta@gmail.com">luke.valenta@gmail.com</a>
