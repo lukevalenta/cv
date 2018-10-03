@@ -38,7 +38,7 @@ __Frostburg State University__
 __Cryptography Engineering Intern, Cloudflare__
 - Built [mitmengine](https://github.com/cloudflare/mitmengine), a tool for detecting HTTPS interception
 - Expanded data processing pipeline for cryptographic analysis of TLS messages
-- Queried internal databases to gain insights into customer behavior
+- Gathered and processed data on customer geo-blocking behavior (see 403 Forbidden paper)
 
 `Jun 2017 - Aug 2017`
 __Ph.D. Intern, Advanced Security Research Group, Cisco Systems__
