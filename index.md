@@ -48,6 +48,7 @@ __Ph.D. Intern, Advanced Security Research Group, Cisco Systems__
 
 {: .noprint}
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=bgs6DjkAAAAJ).
+
 `IMC 2018`
 403 Forbidden: A Global View of CDN Geoblocking. Allison McDonald, Matthew Bernhard, Luke Valenta, Benjamin VanderSloot, Will Scott, Nick Sullivan, J. Alex Halderman, Roya Ensafi
 <br>
