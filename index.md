@@ -126,6 +126,8 @@ UNIX, Linux, Android
 <br>
 
 ### Academic Services
+`USENIX 2019`, 28th Usenix Security Symposium, program committee
+<br>
 `FC 2019` Financial Cryptography and Data Security, program committee
 <br>
 `BITCOIN 2018` Workshop on Bitcoin and Blockchain Research, program committee
