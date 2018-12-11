@@ -150,7 +150,10 @@ UNIX, Linux, Android
 <br>
 
 ### Conference Talks
-`EuroS&P 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
+`BlackHat EU 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
+[(slides)](assets/files/curveswap-slides.pdf){:.noprint}
+<br>
+`BlackHat EU 2018, EuroS&P 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
 [(slides)](assets/files/curveswap-slides.pdf){:.noprint}
 <br>
 `CCS 2017` May the Fourth Be With You: A Microarchitectural Side Channel Attack on Several Real-World Applications of Curve25519.
