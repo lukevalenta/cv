@@ -71,7 +71,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 70%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -87,7 +87,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 55%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
