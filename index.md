@@ -11,10 +11,10 @@ PhD student, applied cryptographer, security researcher
 | <a href="https://linkedin.com/in/lukevalenta">linkedin.com/in/lukevalenta</a>
 </div>
 
-### Interests
+## Interests
 Computer Security, Privacy, Applied Cryptography, Elliptic Curve Cryptography, Distributed Systems
 
-### Education
+## Education
 
 `Sep 2014 - May 2019 (expected)`
 __University of Pennsylvania__
@@ -32,7 +32,7 @@ __University of Maryland__
 __Frostburg State University__
 - Double major physics and mathematics, GPA 4.0
 
-### Industry Experience
+## Industry Experience
 
 `May 2018 - Jul 2018`
 __Cryptography Engineering Intern, Cloudflare__
@@ -44,7 +44,7 @@ __Cryptography Engineering Intern, Cloudflare__
 __Ph.D. Intern, Advanced Security Research Group, Cisco Systems__
 - Built SSH and IKE modules for the [Joy network security monitor](https://github.com/cisco/joy)
 
-### Publications
+## Publications
 
 {: .noprint}
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=bgs6DjkAAAAJ).
@@ -65,7 +65,7 @@ Daniel J. Bernstein, Nadia Heninger, Paul Lou, Luke Valenta.
 [Measuring small subgroup attacks against Diffie-Hellman](https://eprint.iacr.org/2016/995).
 Luke Valenta, David Adrian, Antonio Sanso, Shaanan Cohney, Joshua Fried, Marcella Hastings, J. Alex Halderman, Nadia Heninger.
 <br>
-`USENIX 2016`
+`USENIX Sec 2016`
 [DROWN: Breaking TLS using SSLv2](https://drownattack.com/drown-attack-paper.pdf).
 Nimrod Aviram, Sebastian Schinzel, Juraj Somorovsky, Nadia Heninger, Maik Dankel, Jens Steube, Luke Valenta, David Adrian, J. Alex Halderman, Viktor Dukhovni, Emilia K&auml;sper, Shaanan Cohney, Susanne Engels, Christof Paar, Yuval Shavitt.
 [(site)](https://drownattack.com/){:.noprint}
@@ -90,13 +90,13 @@ Dave Levin, Youndo Lee, Luke Valenta, Zhihao Li, Victoria Lai, Cristian Lumezanu
 [Blindcoin: Blinded, Accountable Mixes for Bitcoin](http://fc15.ifca.ai/preproceedings/bitcoin/paper_3.pdf).
 Luke Valenta, Brendan Rowan.
 
-### Languages
+## Languages
 Go, Python, C, C++, Java, Ruby, MatLab, OCaml, LaTex, HTML
 
-### Operating Systems
+## Operating Systems
 UNIX, Linux, Android
 
-### Awards
+## Awards
 `Oct 2016` Finalist, Facebook Internet Defense Prize
 <br>
 `Aug 2016` Pwnie Award - Best Cryptographic Attack, Black Hat
@@ -122,7 +122,9 @@ UNIX, Linux, Android
 `Sep 2009 - May 2011` Dean's List, Frostburg State University
 <br>
 
-### Academic Services
+## Academic Services
+`USENIX Sec 2019` USENIX Security 2019, program committee
+<br>
 `FC 2019` Financial Cryptography and Data Security, program committee
 <br>
 `BITCOIN 2018` Workshop on Bitcoin and Blockchain Research, program committee
@@ -132,7 +134,7 @@ UNIX, Linux, Android
 `PETS 2017.4` Privacy Enhancing Technologies, external reviewer
 <br>
 
-### Other Services
+## Other Services
 `2017 - 2018` Computer and Information Science Graduate Association, University of Pennsylvania, co-chair
 <br>
 `2016 - 2017` Graduate Student Engineering Group, University of Pennsylvania, president
@@ -144,7 +146,7 @@ UNIX, Linux, Android
 `2014 - present` Security Reading Group, University of Pennsylvania, organizer
 <br>
 
-### Conference Talks
+## Conference Talks
 `EuroS&P 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
 [(slides)](assets/files/curveswap-slides.pdf){:.noprint}
 <br>
@@ -163,14 +165,14 @@ UNIX, Linux, Android
 [(slides)](https://docs.google.com/presentation/d/1MalB0CkNFPI6d3zIolViwhJ_0bwYbur9QBl764n1Jww/pub?slide=id.p){:.noprint}
 <br>
 
-### Other Talks
+## Other Talks
 `Nov 2016` Factoring as a Service. *Boston University Security Group*.
 <br>
 `Mar 2015` How Bitcoin Works. *Net Tuesday Philly Meetup*.
 [(slides)](https://goo.gl/e4KcIP){:.noprint}
 <br>
 
-### Teaching
+## Teaching
 `Fall 2017` CIS551: Computer and Network Security, University of Pennsylvania, TA
 <br>
 `Fall 2016` CIS551: Computer and Network Security, University of Pennsylvania, TA
@@ -186,12 +188,12 @@ UNIX, Linux, Android
 `Fall 2010 - Spring 2011` MATH236: Calculus I, Frostburg State University, tutor
 <br>
 
-### Relevant Coursework
+## Relevant Coursework
 Computer Networks, Algorithms, Programming Handheld Devices, Network Security,
 Programming Languages, Cryptography, Computer Architecture, Discrete Structures,
 Computer Systems, Object Oriented Programming, Machine Learning
 
-### Additional activities
+## Additional Activities
 `Nov 2014, Nov 2016` Mr. and Mrs. Penn Bodybuilding Competition, participant
 <br>
 `Sep 2011 - May 2014` UMD Gymkana Troupe (gymnastics), member
