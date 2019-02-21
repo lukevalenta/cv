@@ -3,7 +3,7 @@ layout: cv
 title: CV
 ---
 # Luke Valenta
-PhD student, applied cryptographer, security researcher
+PhD student, applied cryptography and computer security researcher
 
 <div id="webaddress">
 <a href="mailto:luke.valenta@gmail.com">luke.valenta@gmail.com</a>
@@ -38,7 +38,7 @@ __Frostburg State University__
 __Cryptography Engineering Intern, Cloudflare__
 - Built [mitmengine](https://github.com/cloudflare/mitmengine), a tool for detecting HTTPS interception
 - Expanded data processing pipeline for cryptographic analysis of TLS messages
-- Queried internal databases to gain insights into customer behavior
+- Gathered and processed data on customer geo-blocking behavior (see 403 Forbidden paper)
 
 `Jun 2017 - Aug 2017`
 __Ph.D. Intern, Advanced Security Research Group, Cisco Systems__
@@ -49,6 +49,9 @@ __Ph.D. Intern, Advanced Security Research Group, Cisco Systems__
 {: .noprint}
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=bgs6DjkAAAAJ).
 
+`IMC 2018`
+[403 Forbidden: A Global View of CDN Geoblocking](https://ensa.fi/papers/403forbidden_imc18.pdf). Allison McDonald, Matthew Bernhard, Luke Valenta, Benjamin VanderSloot, Will Scott, Nick Sullivan, J. Alex Halderman, Roya Ensafi
+<br>
 `EuroS&P 2018`
 [In search of CurveSwap: Measuring elliptic curve implementations in the wild](https://eprint.iacr.org/2018/298.pdf).
 Luke Valenta, Nick Sullivan, Antonio Sanso, Nadia Heninger.
@@ -123,7 +126,7 @@ UNIX, Linux, Android
 <br>
 
 ## Academic Services
-`USENIX Sec 2019` USENIX Security 2019, program committee
+`USENIX Sec 2019` 28th Usenix Security Symposium, program committee
 <br>
 `FC 2019` Financial Cryptography and Data Security, program committee
 <br>
@@ -147,6 +150,9 @@ UNIX, Linux, Android
 <br>
 
 ## Conference Talks
+`BlackHat EU 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
+[(slides)](assets/files/curveswap-slides.pdf){:.noprint}
+<br>
 `EuroS&P 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
 [(slides)](assets/files/curveswap-slides.pdf){:.noprint}
 <br>
