@@ -83,11 +83,16 @@ p code {
 	right: -20%;
 }
 
+li code {
+	position: absolute;
+	text-align: right;
+	right: -20%;
+}
 
 ul {
 	position: relative;
 	left: 15%;
-	width: 75%;
+	width: 68%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
