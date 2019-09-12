@@ -70,8 +70,8 @@ Dave Levin, Youndo Lee, Luke Valenta, Zhihao Li, Victoria Lai, Cristian Lumezanu
 - `BITCOIN 2015` [Blindcoin: Blinded, Accountable Mixes for Bitcoin](http://fc15.ifca.ai/preproceedings/bitcoin/paper_3.pdf).
 Luke Valenta, Brendan Rowan.
 
-## Languages
-Go, Python, C, C++, Java, Ruby, MatLab, OCaml, LaTex, HTML
+## Preferred Languages
+Go, Python, C
 
 ## Operating Systems
 UNIX, Linux, Android
@@ -105,8 +105,6 @@ UNIX, Linux, Android
 - `2014 - present` Security Reading Group, University of Pennsylvania, organizer
 
 ## Conference Talks
-- `BlackHat EU 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
-[(slides)](assets/files/curveswap-slides.pdf){:.noprint}
 - `EuroS&P 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
 [(slides)](assets/files/curveswap-slides.pdf){:.noprint}
 - `CCS 2017` May the Fourth Be With You: A Microarchitectural Side Channel Attack on Several Real-World Applications of Curve25519.
@@ -121,6 +119,10 @@ UNIX, Linux, Android
 [(slides)](https://docs.google.com/presentation/d/1MalB0CkNFPI6d3zIolViwhJ_0bwYbur9QBl764n1Jww/pub?slide=id.p){:.noprint}
 
 ## Other Talks
+- `BlackHat USA 2019` Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception.
+[(slides)](assets/files/blackhat-usa-2019-slides.pdf){:noprint}
+- `BlackHat EU 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
+[(slides)](assets/files/curveswap-slides.pdf){:.noprint}
 - `Nov 2016` Factoring as a Service. *Boston University Security Group*.
 - `Mar 2015` How Bitcoin Works. *Net Tuesday Philly Meetup*.
 [(slides)](https://goo.gl/e4KcIP){:.noprint}
