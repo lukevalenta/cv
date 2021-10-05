@@ -49,7 +49,7 @@ __Ph.D. Intern, Advanced Security Research Group, Cisco Systems__
 
 {: .noprint}
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=bgs6DjkAAAAJ).
-
+- `LatinCrypt 2021` [Implementing and Measuring KEMTLS](https://eprint.iacr.org/2021/1019.pdf). Sofía Celi, Armando Faz-Hernández, Nick Sullivan, Goutam Tamvada, Luke Valenta, Thom Wiggers, Bas Westerbaan, Christopher A. Wood
 - `IMC 2018` [403 Forbidden: A Global View of CDN Geoblocking](https://ensa.fi/papers/403forbidden_imc18.pdf). Allison McDonald, Matthew Bernhard, Luke Valenta, Benjamin VanderSloot, Will Scott, Nick Sullivan, J. Alex Halderman, Roya Ensafi
 - `EuroS&P 2018` [In search of CurveSwap: Measuring elliptic curve implementations in the wild](https://eprint.iacr.org/2018/298.pdf). Luke Valenta, Nick Sullivan, Antonio Sanso, Nadia Heninger.
 - `CCS 2017` [May the Fourth Be With You: A Microarchitectural Side Channel Attack on Several Real-World Applications of Curve25519](https://eprint.iacr.org/2017/806.pdf). Daniel Genkin, Luke Valenta, Yuval Yarom.
