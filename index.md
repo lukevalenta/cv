@@ -49,6 +49,10 @@ __Ph.D. Intern, Advanced Security Research Group, Cisco Systems__
 
 {: .noprint}
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=bgs6DjkAAAAJ).
+- `SIGCOMM 2023` [Global, Passive Detection of Connection Tampering](https://research.cloudflare.com/publications/SundaraRaman2023/). Ram Sundara Raman, Louis-Henri Merino, Kevin Bock, Marwan Fayed, Dave Levin, Nick Sullivan, Luke Valenta
+- `IMC 2022` [Respect the ORIGIN! a best-case evaluation of connection coalescing in the wild](https://research.cloudflare.com/publications/Singanamalla2022/). Sudheesh Singanamalla, Talha Paracha, Suleman Ahmad, Jonathan Hoyland, Luke Valenta, Yevgen Safronov, Peter Wu, Andrew Galloni, Kurtis Heimerl, Nick Sullivan, Christopher A. Wood, Marwan Fayed
+- `IMC 2022` [Toppling top lists: Evaluating the accuracy of popular website lists](https://research.cloudflare.com/publications/Ruth2022/). Kimberly Ruth, Deepak Kumar, Brandon Wang, Luke Valenta, Zakir Durumeric
+- `USENIX Sec 2022` [Might I Get Pwned: A Second Generation Compromised Credential Checking Service](https://www.usenix.org/system/files/sec22-pal.pdfhttps://research.cloudflare.com/publications/Pal2022/). Bijeeta Pal, Mazharul Islam, Marina Sanusi Bohuk, Nick Sullivan, Luke Valenta, Tara Whalen, Christopher Wood, Thomas Ristenpart, Rahul Chatterjee
 - `LatinCrypt 2021` [Implementing and Measuring KEMTLS](https://eprint.iacr.org/2021/1019.pdf). Sofía Celi, Armando Faz-Hernández, Nick Sullivan, Goutam Tamvada, Luke Valenta, Thom Wiggers, Bas Westerbaan, Christopher A. Wood
 - `IMC 2018` [403 Forbidden: A Global View of CDN Geoblocking](https://ensa.fi/papers/403forbidden_imc18.pdf). Allison McDonald, Matthew Bernhard, Luke Valenta, Benjamin VanderSloot, Will Scott, Nick Sullivan, J. Alex Halderman, Roya Ensafi
 - `EuroS&P 2018` [In search of CurveSwap: Measuring elliptic curve implementations in the wild](https://eprint.iacr.org/2018/298.pdf). Luke Valenta, Nick Sullivan, Antonio Sanso, Nadia Heninger.
@@ -71,7 +75,7 @@ Dave Levin, Youndo Lee, Luke Valenta, Zhihao Li, Victoria Lai, Cristian Lumezanu
 Luke Valenta, Brendan Rowan.
 
 ## Preferred Languages
-Go, Python, C
+Go, Python, Rust, C
 
 ## Operating Systems
 UNIX, Linux, Android
@@ -119,6 +123,7 @@ UNIX, Linux, Android
 [(slides)](https://docs.google.com/presentation/d/1MalB0CkNFPI6d3zIolViwhJ_0bwYbur9QBl764n1Jww/pub?slide=id.p){:.noprint}
 
 ## Other Talks
+- `Cloudflare Connect 2023` What security leaders need to know about post-quantum cryptography. [(slides)](https://docs.google.com/presentation/d/1J6y_k5Bm33cvmvf4vc7GF3pIdiv3Lk8_AFGg8jxehwo/edit?usp=sharing){:noprint}
 - `BlackHat USA 2019` Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception.
 [(slides)](assets/files/blackhat-usa-2019-slides.pdf){:noprint}
 - `BlackHat EU 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
