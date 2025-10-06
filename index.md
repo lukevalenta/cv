@@ -32,8 +32,11 @@ __Frostburg State University__
 
 ## Industry Experience
 
-`July 2019 - present`
-__Systems Engineer - Cryptography, Cloudflare__
+`September 2024 - present`
+__Senior Research Engineer, Cloudflare__
+
+`July 2019 - September 2024`
+__Research Engineer, Cloudflare__
 
 `May 2018 - Jul 2018`
 __Cryptography Engineering Intern, Cloudflare__
@@ -75,7 +78,7 @@ Dave Levin, Youndo Lee, Luke Valenta, Zhihao Li, Victoria Lai, Cristian Lumezanu
 Luke Valenta, Brendan Rowan.
 
 ## Preferred Languages
-Go, Python, Rust, C
+Rust, Go, Python, C
 
 ## Operating Systems
 UNIX, Linux, Android
@@ -123,9 +126,12 @@ UNIX, Linux, Android
 [(slides)](https://docs.google.com/presentation/d/1MalB0CkNFPI6d3zIolViwhJ_0bwYbur9QBl764n1Jww/pub?slide=id.p){:.noprint}
 
 ## Other Talks
+- `DigiCert World Quantum Readiness Day 2025` The Quantum Dispatch: Lessons from the Forefront of PQC. [(event)](https://www.digicert.com/world-quantum-readiness-day){:.noprint}
+- `PKI Consortium Post-Quantum Cryptography Conference` Making PQ Signatures work in the WebPKI. [(slides)](https://pkic.org/events/2025/pqc-conference-austin-us/WED_BREAKOUT_1600_Luke-Valenta_Making-PQ-Signatures-work-in-the-WebPKI.pdf)][(video)](https://youtu.be/Cfkknxdz-1I){:.noprint}
+- `PKI Consortium Post-Quantum Cryptography Conference` Why the Internet isn’t ready for Post-Quantum Certificates. [(slides)](https://pkic.org/events/2025/pqc-conference-austin-us/WED_PLENARY_1500_Luke-Valenta_Why-the-Internet-isnt-ready-for-PQ-Certificates.pdf)][(video)](https://youtu.be/1JS-IfjCXc0){:.noprint}
 - `Cloudflare Connect 2023` What security leaders need to know about post-quantum cryptography. [(slides)](https://docs.google.com/presentation/d/1J6y_k5Bm33cvmvf4vc7GF3pIdiv3Lk8_AFGg8jxehwo/edit?usp=sharing){:noprint}
 - `BlackHat USA 2019` Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception.
-[(slides)](assets/files/blackhat-usa-2019-slides.pdf){:noprint}
+[(slides)](assets/files/blackhat-usa-2019-slides.pdf){:.noprint}
 - `BlackHat EU 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
 [(slides)](assets/files/curveswap-slides.pdf){:.noprint}
 - `Nov 2016` Factoring as a Service. *Boston University Security Group*.
