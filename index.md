@@ -136,7 +136,8 @@ UNIX, Linux, Android
 - `DigiCert World Quantum Readiness Day 2025` The Quantum Dispatch: Lessons from the Forefront of PQC. [(event)](https://www.digicert.com/world-quantum-readiness-day){:.noprint}
 - `PKI Consortium Post-Quantum Cryptography Conference` Making PQ Signatures work in the WebPKI. [(slides)](https://pkic.org/events/2025/pqc-conference-austin-us/WED_BREAKOUT_1600_Luke-Valenta_Making-PQ-Signatures-work-in-the-WebPKI.pdf)][(video)](https://youtu.be/Cfkknxdz-1I){:.noprint}
 - `PKI Consortium Post-Quantum Cryptography Conference` Why the Internet isn’t ready for Post-Quantum Certificates. [(slides)](https://pkic.org/events/2025/pqc-conference-austin-us/WED_PLENARY_1500_Luke-Valenta_Why-the-Internet-isnt-ready-for-PQ-Certificates.pdf)][(video)](https://youtu.be/1JS-IfjCXc0){:.noprint}
-- `Cloudflare Connect 2023` What security leaders need to know about post-quantum cryptography. [(slides)](https://docs.google.com/presentation/d/1J6y_k5Bm33cvmvf4vc7GF3pIdiv3Lk8_AFGg8jxehwo/edit?usp=sharing){:noprint}
+- `GNI Annual Learning Forum 2024` Global insights around Internet connection tampering efforts. [(slides)](https://docs.google.com/presentation/d/17_sDNtALK2HEPnqo2adug8BYF9iHF4UO7ZKWg7eRPDs/edit?usp=sharing){:.noprint}
+- `Cloudflare Connect 2023` What security leaders need to know about post-quantum cryptography. [(slides)](https://docs.google.com/presentation/d/1J6y_k5Bm33cvmvf4vc7GF3pIdiv3Lk8_AFGg8jxehwo/edit?usp=sharing){:.noprint}
 - `BlackHat USA 2019` Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception.
 [(slides)](assets/files/blackhat-usa-2019-slides.pdf){:.noprint}
 - `BlackHat EU 2018` In search of CurveSwap: Measuring elliptic curve implementations in the wild.
