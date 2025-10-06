@@ -32,10 +32,10 @@ __Frostburg State University__
 
 ## Industry Experience
 
-`September 2024 - present`
+`October 2024 - present`
 __Senior Research Engineer, Cloudflare__
 
-`July 2019 - September 2024`
+`July 2019 - October 2024`
 __Research Engineer, Cloudflare__
 
 `May 2018 - Jul 2018`
@@ -47,6 +47,12 @@ __Cryptography Engineering Intern, Cloudflare__
 `Jun 2017 - Aug 2017`
 __Ph.D. Intern, Advanced Security Research Group, Cisco Systems__
 - Built SSH and IKE modules for the [Joy network security monitor](https://github.com/cisco/joy)
+
+## Standardization Efforts
+- `Merkle Tree Certificates` [(link)](https://datatracker.ietf.org/doc/draft-davidben-tls-merkle-tree-certs/)
+
+## Selected Blog posts
+A list is available on the [Cloudflare Blog](https://blog.cloudflare.com/author/luke/).
 
 ## Publications
 
@@ -98,6 +104,7 @@ UNIX, Linux, Android
 - `Sep 2009 - May 2011` Dean's List, Frostburg State University
 
 ## Academic Services
+- `PoPETS 2025 - 2026` Privacy Enhancing Technologies Symposium, program committee
 - `USENIX Sec 2019` 28th Usenix Security Symposium, program committee
 - `FC 2019` Financial Cryptography and Data Security, program committee
 - `BITCOIN 2018` Workshop on Bitcoin and Blockchain Research, program committee
